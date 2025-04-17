@@ -1,4 +1,4 @@
-A simple weather application built with Java-Script, HTML, CSS that fetches real-time weather data using the OpenWeather API.
+##A simple weather application built with Java-Script, HTML, CSS that fetches real-time weather data using the OpenWeather API.
 
 Features:
 Search weather by city name
